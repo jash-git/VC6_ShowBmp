@@ -1,0 +1,4 @@
+﻿cl : 命令列 warning D9007: '/Gm' 需要 '/Zi 或 /ZI'，已忽略選項
+  PngFile.cpp
+  ShowBmp.vcxproj -> C:\Users\usernb\Desktop\VC_ShowBmp\20071203單純Sobel\ShowBmp\.\Debug\ShowBmp.exe
+  ShowBmp.vcxproj -> .\Debug\ShowBmp.pdb (Full PDB)
